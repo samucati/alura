@@ -42,6 +42,10 @@ Cursos kaffa alura
 * Conheça os componentes de uma requisição como cabeçalhos e status
 * Saiba como melhorar a comunicação entre aplicações
 
+*'npm init -y'
+*'npm install config'
+*'npm install express body-parser sequelize mysql2'
+*'npm install jsontoxml'
 *'node api/index.js --iniciar'
 *'node .\api\banco-de-dados\criarTabelas.js'
 
