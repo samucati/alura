@@ -57,6 +57,12 @@ Cursos kaffa alura
 * Manipule os verbos HTTP através do método fetch.
 * Aprenda como funcionam as promises no JavaScript.
 
+*'npm install'
+*'npm install -g node-gyp'
+*'npm install --global --production windows-build-tools'
+*'cd .\server-petshop\'
+*'npm start'
+
 # Java e Testes: Test Driven Development com Junit
 
 * TDD : vantagens e desvantagens
