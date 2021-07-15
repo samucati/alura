@@ -1,0 +1,27 @@
+_id: req_16470e84a574439b910286dd84713b0c
+type: Request
+parentId: fld_43750b8877684f57b3556bbce17e14b9
+modified: 1626295313462
+created: 1626294978355
+url: http://localhost:5555/fornecedor/produto/DF
+name: Produtos do forn. por estado
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Authorization
+    value: Bearer $2a$10$wj6vzhZE8lPAlJVe2KDEQ.wwu24anuvbh9VT2umfHXNrQbq4qlEte
+    id: pair_2cbf3384147340678ceb72639b249e45
+    disabled: true
+authentication: {}
+metaSortKey: -1610232259354
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

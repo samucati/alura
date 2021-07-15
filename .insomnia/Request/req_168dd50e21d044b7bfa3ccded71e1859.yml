@@ -1,0 +1,35 @@
+_id: req_168dd50e21d044b7bfa3ccded71e1859
+type: Request
+parentId: fld_43750b8877684f57b3556bbce17e14b9
+modified: 1626307114228
+created: 1626306750092
+url: http://localhost:5555/fornecedor/produto
+name: Produto Salvar
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"nome": "LEITE DESNATADO",
+    	"descricao": "DA VACA MIMOSA",
+    	"estado": "DF",
+    	"preco": 1.56
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    description: ""
+    id: pair_bd0429b09068473a902752fa95ffb494
+authentication:
+  type: oauth2
+  grantType: authorization_code
+metaSortKey: -1626295413583.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

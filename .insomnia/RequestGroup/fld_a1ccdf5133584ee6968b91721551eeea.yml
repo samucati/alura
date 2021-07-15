@@ -1,0 +1,10 @@
+_id: fld_a1ccdf5133584ee6968b91721551eeea
+type: RequestGroup
+parentId: wrk_cfba2de533c24b9ab720330b6596c56a
+modified: 1626294859101
+created: 1626294859101
+name: microservices-spring-cloud-circuit-breaker-api-gateway
+description: ""
+environment: {}
+environmentPropertyOrder: null
+metaSortKey: -1626294859102

@@ -1,0 +1,25 @@
+_id: req_aa7a407f3c3b4e1b9b69a032e4de6381
+type: Request
+parentId: fld_6d90c2b78d6c4a34a02471616693da10
+modified: 1626305302587
+created: 1626296322709
+url: http://localhost:8088/user
+name: Logar
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: oauth2
+  grantType: authorization_code
+  disabled: false
+  credentialsInBody: false
+metaSortKey: -1618263807396
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

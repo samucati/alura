@@ -1,0 +1,41 @@
+_id: req_e9e44e18f433401684a7a22fa08e2dbb
+type: Request
+parentId: fld_43750b8877684f57b3556bbce17e14b9
+modified: 1626305457803
+created: 1626295471904
+url: http://localhost:5555/loja/compra
+name: Compra
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"itens": [
+    		{
+    			"id": 1,
+    			"quantidade": 10
+    		}
+    	],
+    	"endereco": {
+    		"rua": "jose da silva",
+    		"numero": 100,
+    		"estado": "DF"
+    	}
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_f87d6f577697445b86914111d4fcf60e
+authentication:
+  type: oauth2
+  grantType: authorization_code
+metaSortKey: -1626295471904
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,27 @@
+_id: req_5c4cbefcd00a4e0498140204ae97af1a
+type: Request
+parentId: fld_071ea9249b844f409b610c3ba0d7bc41
+modified: 1626295378867
+created: 1626295341217
+url: http://localhost:8081/info/DF
+name: Info do fornecedor por estado
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Authorization
+    value: Bearer $2a$10$wj6vzhZE8lPAlJVe2KDEQ.wwu24anuvbh9VT2umfHXNrQbq4qlEte
+    id: pair_2cbf3384147340678ceb72639b249e45
+    disabled: true
+authentication: {}
+metaSortKey: -1610232259379
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

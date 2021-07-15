@@ -1,0 +1,47 @@
+_id: req_fa0bb90925ff4e79aa61d34deb53f0d3
+type: Request
+parentId: fld_6d90c2b78d6c4a34a02471616693da10
+modified: 1626296315654
+created: 1624235975395
+url: http://localhost:8088/oauth/token
+name: Gerar token
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - name: scope
+      value: web
+      description: ""
+      id: pair_065c44aeb9bb4949889f5ccbd7ef7900
+    - name: grant_type
+      value: password
+      description: ""
+      id: pair_14d73cc9989f4e8f8f3ba1c88952c2c4
+    - name: username
+      value: joao
+      description: ""
+      id: pair_5ba095c395df4e14b4acead6e1cbea07
+    - name: password
+      value: joaopwd
+      description: ""
+      id: pair_96d320e18b2744e992e3ac29b4d8d922
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_2daae5c88c864248bba6b07329f68e3a
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: false
+  username: loja
+  password: lojapwd
+metaSortKey: -1626295355263
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
