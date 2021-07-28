@@ -72,7 +72,7 @@ Cursos kaffa alura
 * Faça testes com DataBuilders
 * Testando exceptions
 
-#API REST com Kotlin e Spring Boot: Camada Web
+# API REST com Kotlin e Spring Boot: Camada Web
 
 * Aprenda a criar uma aplicação Spring Boot com Kotlin do zero
 * Desenvolva um CRUD sabendo lidar com requisições GET, POST, PUT e DELETE
