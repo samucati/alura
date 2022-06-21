@@ -1,5 +1,5 @@
-# alura
-Cursos kaffa alura
+# Alura
+Cursos alura
 
 # Spring Boot Agilidade no desenvolvimento java com Spring
 
@@ -81,3 +81,11 @@ Cursos kaffa alura
 * Realize validações utilizando o Bean Validation
 * Aprenda a seguir corretamente os princípios do modelo REST
 * Saiba como tratar exceptions na API
+
+# TDD e Java: testes automatizados com JUnit
+
+* Entenda a importância de escrever testes automatizados em uma aplicação
+* Conheça o JUnit, principal biblioteca para testes automatizados em Java
+* Aprenda a escrever testes automatizados com JUnit
+* Aprenda a utilizar o processo de TDD ao escrever testes automatizados
+* Conheça as principais anotações e recursos do JUnit
